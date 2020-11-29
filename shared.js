@@ -1,1 +1,1 @@
-console.log("hai agung")
+console.log("hai agung laksana")
